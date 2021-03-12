@@ -18,7 +18,10 @@
  
 p {
   font-size: 150px;
-  color: white
-  ;
+  color: white;
 
+}
+h1 {
+  font-size: 14px;
+  color: white;
 }
